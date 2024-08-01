@@ -1,5 +1,5 @@
 ---
-description: "My Projects."
+description: "IoTechCrafts | Web Templates"
 ---
 
-I ❤️ **sharing** what I've learnt or created with others.
+Responsiveness and Security is **granted by design ❤️**
