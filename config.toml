@@ -1,33 +1,21 @@
 theme = "lynx"
-title = "JAlcocerT"
-baseURL= "https://jalcocert.github.io/portfolio/"
+title = "Portfolio Templates"
+baseURL= "https://jalcocert.github.io/templates/"
 
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "JAlcocerT Portfolio"
+  name = "IoTechCrafts Web Portfolio"
   headline = """
-  From Data Analytics to IoT
+  Having a modern website doesn't have to be hard (neither 💰)
   """
   
   image = "fossengineer.png" 
   links = [
-    { linkedin = "https://www.linkedin.com/in/jalcocert/" },
-    { medium = "https://medium.com/@jalcocert" },
-    { youtube = "https://www.youtube.com/@JAlcocerTech" },
-    { GHPages = { href = "https://jalcocert.github.io/JAlcocerT", text = "About JAlcocerT" } },    
-    { github = "https://github.com/JAlcocerT/RPi"},
-    { github = "https://github.com/JAlcocerT/Linux"},
-    { fossengineer = { href = "https://fossengineer.com/", text = "My Tech Blog" } },
-    { github = "https://github.com/JAlcocerT/Py_Trip_Planner"},
-    { pylo = { href = "https://trip-planner.fossengineer.com/", text = "Dashboard - Py Trip Planner with Weather" } },
-    { github = "https://github.com/JAlcocerT/Py_Double_Pendulum"},
-    { pylo = { href = "https://double-pendulum.fossengineer.com/", text = "Simulation - Double Pendulum" } },
-    { github = "https://github.com/JAlcocerT/Slider-Crank"},
-    { pylo = { href = "https://slider-crank.fossengineer.com/", text = "Simulation - Slider Crank Mechanism" } },
-    { github = "https://github.com/JAlcocerT/R_Stocks"},
+    { linkedin = "https://www.linkedin.com/" },
+    { fossengineer = { href = "https://cyclingthere.com/", text = "Cycling Blog" } },
   ]
 
 [markup.highlight]
