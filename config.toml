@@ -11,11 +11,27 @@ disableKinds = ["taxonomy", "term"]
   headline = """
   Having a modern website doesn't have to be hard (neither 💰)
   """
+  bottomline = """
+  Others will tell you that it is hard to even try to have a Web.
+
+  We make it **easy for you**.
+  """
   
   image = "fossengineer.png" 
   links = [
-    { linkedin = "https://www.linkedin.com/" },
-    { fossengineer = { href = "https://cyclingthere.com/", text = "Cycling Blog" } },
+    { font-awesome = { href = "https://cyclingthere.com/", text = "Sample Web 1" } },
+    { font-awesome = { href = "https://ioracing.iotechcrafts.com//", text = "Sample Web 2" } },
+    { font-awesome = { href = "https://iodoctor.iotechcrafts.com//", text = "Sample Web 3" } },
+
+    { linkedin = "https://www.linkedin.com/in/jalcocert/" },
+    { twitter = "https://x.com" },
+    { instagram = "https://instagram.com/" },
+  ]
+
+  links_firm = [
+
+    { iotech = { href = "https://iotechcrafts.com/", text = "Check Out IoTechCrafts" } },       
+
   ]
 
 [markup.highlight]

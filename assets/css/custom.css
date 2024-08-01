@@ -64,8 +64,18 @@
   background: rgb(74, 62, 83);
   background: linear-gradient(
     90deg,
-    rgb(92, 89, 95) 0%,
+    rgb(229, 82, 14) 0%,
     rgb(97, 60, 60) 50%,
     rgb(227, 109, 18) 100%
+  );
+}
+
+.link-iotech {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgb(46, 131, 235) 0%,
+    rgb(196, 148, 6) 50%,
+    rgb(46, 131, 235) 100%
   );
 }
