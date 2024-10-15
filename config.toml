@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
   We make it **easy for you**.
   """
   
-  image = "iotech.svg" 
+  image = "IoTech.png" 
   links = [
     { font-awesome = { href = "https://cyclingthere.com/", text = "Sample Web 1 - Story Blog" } },
     { font-awesome = { href = "https://ioracing.iotechcrafts.com/", text = "Sample Web 2" } },
